@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm install bootstrap --save`
 In order to install bootstrap
 
-### `npm install jquery popper.js.`
+### `npm install jquery popper.js`
 In order to install jQuery and Popper.js
 
 ### `npm install react-router-dom --save`
